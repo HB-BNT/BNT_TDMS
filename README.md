@@ -37,6 +37,7 @@ Getting started:
 - You need to create your derived TDMS-Data.lvclass and override the corresponding dynamic dispatch VIs.
 - You need to call a override the "Update TDMS-Data Msg.lvclass:Do.vi" in order to send data to yout derived TDMS-Actor class instance.
 
+Lizenziert unter EUPL V. 1.1 
 
 Author: Holger.Brand@BrandNewTechnologies.de
 
